@@ -34,6 +34,7 @@ After repeated mistakes I decided to change or remove the following short cuts
 - **SHIFT-I** - Toggle local view
 - **SHIFT-Q** - always switches to circle select
 - **ALT-Q** - always switches to lasso select
+- **CTLR+SHIFT+C** - Set origin to geometry
 
 ### Mesh Editing
 
